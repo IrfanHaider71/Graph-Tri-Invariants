@@ -1,0 +1,50 @@
+USAGE NOTICE - Research Source Code
+===================================
+
+Repository
+----------
+Graph-Tri-Invariants
+https://github.com/IrfanHaider71/Graph-Tri-Invariants
+
+Manuscript
+----------
+A Graph-Based Framework for Molecular Property Prediction from Topological Descriptors
+
+Authors:  Irfan Haider et al.
+
+Journal: Journal of Computer-Aided Molecular Design
+Status: Manuscript under revision for resubmission.
+
+Description
+-----------
+This repository contains the source code for molecular-graph construction,
+graph energy, the Schultz index, degree entropy, regression analysis,
+cross-validation, applicability diagnostics, numerical conditioning,
+runtime assessment, and the associated figures described in the manuscript.
+
+Usage Policy
+------------
+Copyright (c) 2026 Irfan Haider and coauthors. All rights reserved.
+
+This repository is provided solely for transparency and peer review.
+Reviewers may inspect and run the code for the purpose of evaluating the
+manuscript.
+
+Any other use, reproduction, redistribution, or modification of this code,
+including use or adaptation for academic or commercial purposes, requires
+prior written permission from the first author. No general reuse license
+is granted by making the repository accessible.
+
+Third-party libraries remain subject to their respective licenses.
+
+Contact
+-------
+First author: Irfan Haider
+Email: irfanhaider@mail.dlut.edu.cn
+
+Please contact the first author for questions or permission requests.
+
+Citation upon Publication
+-------------------------
+Once the manuscript is published, the final article citation will be added
+here. When authorized to use this work, please cite the published article.
